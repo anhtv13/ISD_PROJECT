@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{56C5BB81-40C4-4F1C-A8B9-5B254EE81C61}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ISD_Project</RootNamespace>
+    <AssemblyName>ISD_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.8.3\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\Financial\IncomeManager.cs" />
+    <Compile Include="Controller\Financial\OutcomeManager.cs" />
+    <Compile Include="Controller\Person\CustomerManager.cs" />
+    <Compile Include="Controller\Person\StaffManager.cs" />
+    <Compile Include="Controller\Person\SupplierManager.cs" />
+    <Compile Include="Controller\Property\InfrastructureManager.cs" />
+    <Compile Include="Controller\Property\IngredientManager.cs" />
+    <Compile Include="Controller\Property\ProductManager.cs" />
+    <Compile Include="Model\Financial\Income.cs" />
+    <Compile Include="Model\Financial\Outcome.cs" />
+    <Compile Include="Model\Person\Customer.cs" />
+    <Compile Include="Model\Person\Person.cs" />
+    <Compile Include="Model\Person\Staff.cs" />
+    <Compile Include="Model\Person\Supplier.cs" />
+    <Compile Include="Model\Property\Infrastructure.cs" />
+    <Compile Include="Model\Property\Ingredient.cs" />
+    <Compile Include="Model\Property\Product.cs" />
+    <Compile Include="Model\Property\Property.cs" />
+    <Compile Include="View\Authentication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Authentication.Designer.cs">
+      <DependentUpon>Authentication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Report\Chart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Report\Chart.Designer.cs">
+      <DependentUpon>Chart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Financial\IngredientPayGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Financial\IngredientPayGUI.Designer.cs">
+      <DependentUpon>IngredientPayGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Financial\OtherFee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Financial\OtherFee.Designer.cs">
+      <DependentUpon>OtherFee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Financial\SalaryGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Financial\SalaryGUI.Designer.cs">
+      <DependentUpon>SalaryGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\MainGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MainGUI.Designer.cs">
+      <DependentUpon>MainGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\Person\CustomerGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Person\CustomerGUI.Designer.cs">
+      <DependentUpon>CustomerGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Financial\IncomeGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Financial\IncomeGUI.Designer.cs">
+      <DependentUpon>IncomeGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Person\StaffGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Person\StaffGUI.Designer.cs">
+      <DependentUpon>StaffGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Person\SupplierGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Person\SupplierGUI.Designer.cs">
+      <DependentUpon>SupplierGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Property\InfrastructureGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Property\InfrastructureGUI.Designer.cs">
+      <DependentUpon>InfrastructureGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Property\IngredientGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Property\IngredientGUI.Designer.cs">
+      <DependentUpon>IngredientGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Property\ProductGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Property\ProductGUI.Designer.cs">
+      <DependentUpon>ProductGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Report\ReportCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Report\ReportCustomer.Designer.cs">
+      <DependentUpon>ReportCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Report\ReportRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Report\ReportRevenue.Designer.cs">
+      <DependentUpon>ReportRevenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Report\ReportStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Report\ReportStaff.Designer.cs">
+      <DependentUpon>ReportStaff.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\Authentication.resx">
+      <DependentUpon>Authentication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Report\Chart.resx">
+      <DependentUpon>Chart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Financial\IngredientPayGUI.resx">
+      <DependentUpon>IngredientPayGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Financial\OtherFee.resx">
+      <DependentUpon>OtherFee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Financial\SalaryGUI.resx">
+      <DependentUpon>SalaryGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\MainGUI.resx">
+      <DependentUpon>MainGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\Person\CustomerGUI.resx">
+      <DependentUpon>CustomerGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Financial\IncomeGUI.resx">
+      <DependentUpon>IncomeGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Person\StaffGUI.resx">
+      <DependentUpon>StaffGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Person\SupplierGUI.resx">
+      <DependentUpon>SupplierGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Property\InfrastructureGUI.resx">
+      <DependentUpon>InfrastructureGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Property\IngredientGUI.resx">
+      <DependentUpon>IngredientGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Property\ProductGUI.resx">
+      <DependentUpon>ProductGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Report\ReportCustomer.resx">
+      <DependentUpon>ReportCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Report\ReportRevenue.resx">
+      <DependentUpon>ReportRevenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Report\ReportStaff.resx">
+      <DependentUpon>ReportStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,60 @@
+Update Infrastructure{Bàn vuông cao, 6, ok}    2014-11-04
+Update Infrastructure{Bàn vuông cao - to, 6, ok}    2014-11-04
+Update Infrastructure{Bàn vuông cao - nhỏ, 8, hỏng 1 chiếc}    2014-11-04
+Update Infrastructure{Bàn thấp cỡ trung - loại nhỏ, 3, ok}    2014-11-04
+Update Infrastructure{Cốc thủy tinh, 60, vỡ 13 chiếc}    2014-11-04
+Update Infrastructure{Máy tính để bàn , 1, ok}    2014-11-04
+Update Infrastructure{Ghế đẩu, 3, ok}    2014-11-04
+Update Infrastructure{Máy xay sinh tố, 1, ok}    2014-11-04
+Update Infrastructure{Máy nước nóng, 1, ok}    2014-11-04
+Update Infrastructure{Điều hòa, 3, ok}    2014-11-04
+Delete Infrastructure{Bàn thap, 4, ok}    2014-11-05
+Update Ingredient{Caramel , 20, , 30}    2014-11-05
+Update Ingredient{Caramel , 20, , 30}    2014-11-05
+Update Ingredient{Caramel , 20, , 30}    2014-11-05
+Update Ingredient{Kem tươi, 10, , 30}    2014-11-05
+Add Ingredient{Chanh, 100, , 10}    2014-11-05
+Update Ingredient{Caramel , 20, , 5}    2014-11-05
+Update Ingredient{Sữa hộp đặc, 5, , 20}    2014-11-05
+Update Ingredient{Vanilla, 5, , 20}    2014-11-05
+Update Ingredient{Kem tươi, 20, , 50}    2014-11-05
+Update Ingredient{Caramel (hộp), 20, , 5}    2014-11-05
+Update Ingredient{Sữa đặc (hộp), 5, , 20}    2014-11-05
+Update Ingredient{Vanilla (hộp), 5, , 20}    2014-11-05
+Update Ingredient{Kem tươi (cân), 20, , 50}    2014-11-05
+Update Ingredient{Bơ (quả), 12, , 30}    2014-11-05
+Update Ingredient{Chanh muối hộp, 2, , 20}    2014-11-05
+Update Ingredient{Dưa hấu (quả), 10, , 30}    2014-11-05
+Update Ingredient{Cafe hạt (kg), 5, , 50}    2014-11-05
+Update Ingredient{Mật ong (chai), 20, , 15}    2014-11-05
+Update Product{Coke, 12, lạnh, đá}    2014-11-05
+Update Product{Lavie, 10, lạnh, đá}    2014-11-05
+Update Product{Cafe Machiato, 40, Classic}    11/5/2014 10:19:47 PM
+Update Infrastructure{Máy tính để bàn , 4, ok}    11/6/2014 7:42:18 AM
+Add Product{Cafe Espresso, 100, 10}    11/10/2014 9:43:29 AM
+Add Product{Cafe Machiato, 100, 12}    11/10/2014 9:43:50 AM
+Add Product{Cafe Latte, 100, 11}    11/10/2014 9:44:10 AM
+Add Product{Cafe Capucino, 100, 11}    11/10/2014 9:44:31 AM
+Add Product{Cafe Mocha, 100, 14}    11/10/2014 9:44:49 AM
+Add Ingredient{Cà phê bột (kg), 5, 100, }    11/10/2014 9:49:46 AM
+Add Ingredient{Chanh , 1000, 100, quả}    11/10/2014 9:50:29 AM
+Update Ingredient{Cà phê bột, 5, 100, kg}    11/10/2014 9:50:41 AM
+Add Ingredient{Cam, 1000, 12, quả}    11/10/2014 9:51:07 AM
+Update Ingredient{Chanh , 1000, 13, quả}    11/10/2014 9:51:23 AM
+Add Ingredient{Sữa , 10, 25, hộp}    11/10/2014 9:52:30 AM
+Add Infrastructure{ghế cao, 20, 15, hỏng 3 chiếc}    11/10/2014 3:20:40 PM
+Add Infrastructure{ghế thấp, 40, 15, ok}    11/10/2014 3:20:58 PM
+Add Infrastructure{bàn tròn, 40, 15, ok}    11/10/2014 3:21:05 PM
+Add Infrastructure{sofa, 8, 50, ok}    11/10/2014 3:21:25 PM
+Add Infrastructure{máy xay cafe, 2, 150, ok}    11/10/2014 3:21:45 PM
+Add Infrastructure{máy tính để bàn, 1, 550, ok}    11/10/2014 3:22:04 PM
+Update Infrastructure{máy tính để bàn, 1, 550, ok}    11/10/2014 3:22:09 PM
+Delete Infrastructure{, 0, 0, }    11/10/2014 3:22:19 PM
+Add Infrastructure{wifi, 1, 220, ok}    11/10/2014 3:22:31 PM
+Add Ingredient{Bưởi, 20, 50, quả}    11/10/2014 3:23:19 PM
+Update Ingredient{Chanh , 50, 13, quả}    11/10/2014 3:23:32 PM
+Add Ingredient{Cam, 30, 12, quả}    11/10/2014 3:23:40 PM
+Update Ingredient{Cam, 30, 12, quả}    11/10/2014 3:23:50 PM
+Delete Ingredient{, 0, 0, }    11/10/2014 3:23:58 PM
+Add Product{Sinh tố, 50, 18}    11/10/2014 3:25:35 PM
+Update Infrastructure{bàn tròn, 40, 15, hỏng 3 chiếc}    11/15/2014 8:43:37 PM

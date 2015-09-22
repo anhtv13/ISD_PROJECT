@@ -1,0 +1,19 @@
+                      Now cafe
+Số 83 - Tô Vĩnh Diện - quận Thanh Xuân - Hà Nội
+                    0918592616
+-----------------------------------------------------------------
+Customer: Jack Wilshere
+Sale Person: Tran Viet Anh
+Order date: 11/3/2014 8:41:13 PM
+-----------------------------------------------------------------
+Name                         Quantity        Price         Money
+
+Nước chanh muối                     1           20            20
+Nước ép tổng hợp                    1           35            35
+Sinh tố mãng cầu                    1           30            30
+Sinh tố thập cẩm                    1           35            35
+Trà chanh                           2           12            24
+Trà hoa quả sữa                     3           17            51
+Trà lipton nhãn vàng                1           15            15
+-----------------------------------------------------------------
+Total                                                         210

@@ -1,0 +1,49 @@
+C:\Users\anhtv\AppData\Local\Temporary Projects\ISD_Project\bin\Debug\ISD_Project.exe
+C:\Users\anhtv\AppData\Local\Temporary Projects\ISD_Project\bin\Debug\ISD_Project.pdb
+C:\Users\anhtv\AppData\Local\Temporary Projects\ISD_Project\obj\x86\Debug\ISD_Project.Properties.Resources.resources
+C:\Users\anhtv\AppData\Local\Temporary Projects\ISD_Project\obj\x86\Debug\ISD_Project.csproj.GenerateResource.Cache
+C:\Users\anhtv\AppData\Local\Temporary Projects\ISD_Project\obj\x86\Debug\ISD_Project.exe
+C:\Users\anhtv\AppData\Local\Temporary Projects\ISD_Project\obj\x86\Debug\ISD_Project.pdb
+C:\Users\anhtv\AppData\Local\Temporary Projects\ISD_Project\obj\x86\Debug\ISD_Project.Authentication.resources
+C:\Users\anhtv\AppData\Local\Temporary Projects\ISD_Project\obj\x86\Debug\ISD_Project.Management.resources
+C:\Users\anhtv\documents\visual studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.exe
+C:\Users\anhtv\documents\visual studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.pdb
+C:\Users\anhtv\documents\visual studio 2010\Projects\ISD_Project\ISD_Project\bin\Debug\ISD_Project.exe
+C:\Users\anhtv\documents\visual studio 2010\Projects\ISD_Project\ISD_Project\bin\Debug\ISD_Project.pdb
+C:\Users\anhtv\documents\visual studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.Authentication.resources
+C:\Users\anhtv\documents\visual studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.Properties.Resources.resources
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.ChangePassword.resources
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.MainGUI.resources
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Person.StaffGUI.resources
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Person.CustomerGUI.resources
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Person.SupplierGUI.resources
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Chart.resources
+C:\Users\anhtv\Documents\Visual Studio 2010\Projects\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Person.IncomeGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.exe
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.pdb
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\bin\Debug\ISD_Project.exe
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\bin\Debug\ISD_Project.pdb
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.Authentication.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.ChangePassword.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Chart.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.MainGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.Properties.Resources.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Person.CustomerGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Person.IncomeGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Person.StaffGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Person.SupplierGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Property.InfrastructureGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Property.IngredientGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Property.ProductGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Financial.SalaryGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Financial.IngredientPayGUI.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Financial.OtherFee.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Report.ReportStaff.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Report.ReportCustomer.resources
+C:\Users\anhtv\Desktop\ISD_Project\ISD_Project\obj\x86\Debug\ISD_Project.View.Report.ReportRevenue.resources
